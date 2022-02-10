@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.carousel-container {
+  width: 250%;
+  margin: auto;
+  border: 5px solid black;
+}
+
+.slides {
+  display: flex;
+  width: 800%;
+  height: 650px;
+}
